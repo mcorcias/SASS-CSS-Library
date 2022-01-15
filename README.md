@@ -9,3 +9,5 @@ lesson-3 talk about variables
 lesson-4 talk about partial
 # project structure
 lesson-5 talk about sass structure
+# nested-ruled
+lesson-6 talk about nested rules (components - _card.scss)
