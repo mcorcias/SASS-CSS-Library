@@ -2,3 +2,6 @@
 Custom CSS library by SASS
 # install
 npm install gulp gulp-sass sass --save-dev
+
+# variable
+lesson-3 talk about variables
