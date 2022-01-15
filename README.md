@@ -7,3 +7,5 @@ npm install gulp gulp-sass sass --save-dev
 lesson-3 talk about variables
 # partial
 lesson-4 talk about partial
+# project structure
+lesson-5 talk about sass structure
